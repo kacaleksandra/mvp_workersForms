@@ -8,4 +8,4 @@ Employee Data Management: Users can add, delete, and edit employee information, 
 XML Serialization: The application allows saving the employee data to an XML file and loading the employee list from an XML file, ensuring data persistence and easy sharing.
 User-Friendly Interface: The Windows Forms interface provides a straightforward and intuitive user experience, making it easy to manage employee data.
 
-_Aleksandra Kacprzak, 05.2023 _
+_Aleksandra Kacprzak, 05.2023_
